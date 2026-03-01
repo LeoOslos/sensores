@@ -1,0 +1,663 @@
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28.6°C, H: 42%, VPD: 2.27 kPa
+Interior -> T: 26.8°C, H: 50%, VPD: 1.76 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28.6°C, H: 42%, VPD: 2.27 kPa
+Interior -> T: 26.8°C, H: 50%, VPD: 1.76 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28.1°C, H: 44%, VPD: 2.13 kPa
+Interior -> T: 26.8°C, H: 50%, VPD: 1.76 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28.1°C, H: 44%, VPD: 2.13 kPa
+Interior -> T: 26.8°C, H: 50%, VPD: 1.76 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28.1°C, H: 44%, VPD: 2.13 kPa
+Interior -> T: 27°C, H: 51%, VPD: 1.75 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28.1°C, H: 49%, VPD: 1.94 kPa
+Interior -> T: 27°C, H: 51%, VPD: 1.75 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27.6°C, H: 49%, VPD: 1.88 kPa
+Interior -> T: 27°C, H: 51%, VPD: 1.75 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27.6°C, H: 49%, VPD: 1.88 kPa
+Interior -> T: 27°C, H: 51%, VPD: 1.75 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27.1°C, H: 49%, VPD: 1.83 kPa
+Interior -> T: 26.8°C, H: 52%, VPD: 1.69 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27.1°C, H: 49%, VPD: 1.83 kPa
+Interior -> T: 26.8°C, H: 52%, VPD: 1.69 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27.1°C, H: 49%, VPD: 1.83 kPa
+Interior -> T: 26.8°C, H: 52%, VPD: 1.69 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27.1°C, H: 49%, VPD: 1.83 kPa
+Interior -> T: 26.7°C, H: 53%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27°C, H: 49%, VPD: 1.82 kPa
+Interior -> T: 26.7°C, H: 53%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27°C, H: 49%, VPD: 1.82 kPa
+Interior -> T: 26.7°C, H: 53%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27°C, H: 49%, VPD: 1.82 kPa
+Interior -> T: 26.7°C, H: 53%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26.7°C, H: 47%, VPD: 1.86 kPa
+Interior -> T: 26.6°C, H: 50%, VPD: 1.74 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26.7°C, H: 47%, VPD: 1.86 kPa
+Interior -> T: 26.6°C, H: 50%, VPD: 1.74 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26.7°C, H: 47%, VPD: 1.86 kPa
+Interior -> T: 26.6°C, H: 50%, VPD: 1.74 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26.7°C, H: 47%, VPD: 1.86 kPa
+Interior -> T: 26.6°C, H: 50%, VPD: 1.74 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26.4°C, H: 52%, VPD: 1.65 kPa
+Interior -> T: 26.5°C, H: 50%, VPD: 1.73 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26.1°C, H: 57%, VPD: 1.45 kPa
+Interior -> T: 26.4°C, H: 55%, VPD: 1.55 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.9°C, H: 62%, VPD: 1.27 kPa
+Interior -> T: 26.4°C, H: 55%, VPD: 1.55 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.9°C, H: 62%, VPD: 1.27 kPa
+Interior -> T: 26.5°C, H: 60%, VPD: 1.38 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+ERROR: TypeError: status is not iterable
+    at parsearDatos (/home/leoadmin/sensores/src/index_v2.ts:156:22)
+    at main (/home/leoadmin/sensores/src/index_v2.ts:188:21)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.9°C, H: 62%, VPD: 1.27 kPa
+Interior -> T: 26.5°C, H: 60%, VPD: 1.38 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.5°C, H: 66%, VPD: 1.11 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.5°C, H: 66%, VPD: 1.11 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.5°C, H: 66%, VPD: 1.11 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.5°C, H: 66%, VPD: 1.11 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.3°C, H: 63%, VPD: 1.19 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.3°C, H: 63%, VPD: 1.19 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.3°C, H: 63%, VPD: 1.19 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25°C, H: 62%, VPD: 1.2 kPa
+ERROR: TypeError: status is not iterable
+    at parsearDatos (/home/leoadmin/sensores/src/index_v2.ts:156:22)
+    at main (/home/leoadmin/sensores/src/index_v2.ts:188:21)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25°C, H: 62%, VPD: 1.2 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25°C, H: 62%, VPD: 1.2 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25°C, H: 62%, VPD: 1.2 kPa
+Interior -> T: 26.5°C, H: 59%, VPD: 1.42 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25°C, H: 62%, VPD: 1.2 kPa
+Interior -> T: 26.4°C, H: 58%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25°C, H: 62%, VPD: 1.2 kPa
+Interior -> T: 26.4°C, H: 58%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25°C, H: 62%, VPD: 1.2 kPa
+Interior -> T: 26.4°C, H: 58%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.8°C, H: 57%, VPD: 1.35 kPa
+Interior -> T: 26.4°C, H: 58%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.8°C, H: 57%, VPD: 1.35 kPa
+Interior -> T: 26.4°C, H: 58%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.8°C, H: 57%, VPD: 1.35 kPa
+Interior -> T: 26.4°C, H: 58%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.8°C, H: 57%, VPD: 1.35 kPa
+Interior -> T: 26.4°C, H: 58%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.6°C, H: 59%, VPD: 1.27 kPa
+Interior -> T: 26.4°C, H: 58%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.6°C, H: 59%, VPD: 1.27 kPa
+Interior -> T: 26.3°C, H: 58%, VPD: 1.44 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.6°C, H: 59%, VPD: 1.27 kPa
+Interior -> T: 26.3°C, H: 58%, VPD: 1.44 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.1°C, H: 58%, VPD: 1.26 kPa
+Interior -> T: 26.3°C, H: 58%, VPD: 1.44 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.1°C, H: 58%, VPD: 1.26 kPa
+Interior -> T: 26.2°C, H: 57%, VPD: 1.46 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.1°C, H: 58%, VPD: 1.26 kPa
+Interior -> T: 26.2°C, H: 57%, VPD: 1.46 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 23.6°C, H: 62%, VPD: 1.11 kPa
+Interior -> T: 26.2°C, H: 57%, VPD: 1.46 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 23.6°C, H: 62%, VPD: 1.11 kPa
+Interior -> T: 26.2°C, H: 57%, VPD: 1.46 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 23.6°C, H: 62%, VPD: 1.11 kPa
+Interior -> T: 26.1°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 23.1°C, H: 66%, VPD: 0.96 kPa
+Interior -> T: 26.1°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 23.1°C, H: 66%, VPD: 0.96 kPa
+Interior -> T: 26.1°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 23.1°C, H: 66%, VPD: 0.96 kPa
+Interior -> T: 26.1°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 23.1°C, H: 66%, VPD: 0.96 kPa
+Interior -> T: 26°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Abrí las ventanas.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 23.1°C, H: 68%, VPD: 0.9 kPa
+Interior -> T: 25.5°C, H: 58%, VPD: 1.37 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+ERROR: TypeError: status is not iterable
+    at parsearDatos (/home/leoadmin/sensores/src/index_v2.ts:156:22)
+    at main (/home/leoadmin/sensores/src/index_v2.ts:188:21)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.1°C, H: 67%, VPD: 0.99 kPa
+Interior -> T: 25.5°C, H: 58%, VPD: 1.37 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.1°C, H: 67%, VPD: 0.99 kPa
+Interior -> T: 25.5°C, H: 58%, VPD: 1.37 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.6°C, H: 64%, VPD: 1.11 kPa
+Interior -> T: 25.4°C, H: 59%, VPD: 1.33 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 24.6°C, H: 64%, VPD: 1.11 kPa
+Interior -> T: 25.4°C, H: 59%, VPD: 1.33 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.1°C, H: 64%, VPD: 1.15 kPa
+Interior -> T: 25.4°C, H: 59%, VPD: 1.33 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.1°C, H: 64%, VPD: 1.15 kPa
+Interior -> T: 25.4°C, H: 59%, VPD: 1.33 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.1°C, H: 64%, VPD: 1.15 kPa
+Interior -> T: 25.5°C, H: 59%, VPD: 1.34 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.1°C, H: 64%, VPD: 1.15 kPa
+Interior -> T: 25.5°C, H: 59%, VPD: 1.34 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.5°C, H: 61%, VPD: 1.27 kPa
+Interior -> T: 25.5°C, H: 59%, VPD: 1.34 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 25.5°C, H: 61%, VPD: 1.27 kPa
+Interior -> T: 25.7°C, H: 58%, VPD: 1.39 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26°C, H: 60%, VPD: 1.34 kPa
+Interior -> T: 25.7°C, H: 58%, VPD: 1.39 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26°C, H: 60%, VPD: 1.34 kPa
+Interior -> T: 25.7°C, H: 58%, VPD: 1.39 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26°C, H: 60%, VPD: 1.34 kPa
+Interior -> T: 25.7°C, H: 58%, VPD: 1.39 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 26.5°C, H: 57%, VPD: 1.49 kPa
+Interior -> T: 26°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27°C, H: 57%, VPD: 1.53 kPa
+Interior -> T: 26°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27°C, H: 57%, VPD: 1.53 kPa
+Interior -> T: 26°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27°C, H: 57%, VPD: 1.53 kPa
+Interior -> T: 26°C, H: 57%, VPD: 1.45 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 27.5°C, H: 54%, VPD: 1.69 kPa
+Interior -> T: 26.4°C, H: 56%, VPD: 1.51 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28°C, H: 51%, VPD: 1.85 kPa
+Interior -> T: 26.4°C, H: 56%, VPD: 1.51 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28°C, H: 51%, VPD: 1.85 kPa
+Interior -> T: 26.4°C, H: 56%, VPD: 1.51 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28°C, H: 51%, VPD: 1.85 kPa
+Interior -> T: 26.6°C, H: 52%, VPD: 1.67 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28.7°C, H: 46%, VPD: 2.13 kPa
+Interior -> T: 26.6°C, H: 52%, VPD: 1.67 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 28.7°C, H: 46%, VPD: 2.13 kPa
+Interior -> T: 26.6°C, H: 52%, VPD: 1.67 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 29.2°C, H: 44%, VPD: 2.27 kPa
+Interior -> T: 26.6°C, H: 52%, VPD: 1.67 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 29.2°C, H: 44%, VPD: 2.27 kPa
+Interior -> T: 26.7°C, H: 52%, VPD: 1.68 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 29.7°C, H: 43%, VPD: 2.38 kPa
+Interior -> T: 26.7°C, H: 52%, VPD: 1.68 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 29.7°C, H: 43%, VPD: 2.38 kPa
+Interior -> T: 26.7°C, H: 52%, VPD: 1.68 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.2°C, H: 42%, VPD: 2.49 kPa
+Interior -> T: 26.7°C, H: 52%, VPD: 1.68 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.2°C, H: 42%, VPD: 2.49 kPa
+Interior -> T: 26.9°C, H: 53%, VPD: 1.67 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.2°C, H: 42%, VPD: 2.49 kPa
+Interior -> T: 26.9°C, H: 53%, VPD: 1.67 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.2°C, H: 42%, VPD: 2.49 kPa
+Interior -> T: 26.9°C, H: 53%, VPD: 1.67 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.3°C, H: 44%, VPD: 2.42 kPa
+Interior -> T: 27.1°C, H: 54%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.3°C, H: 44%, VPD: 2.42 kPa
+Interior -> T: 27.1°C, H: 54%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.8°C, H: 44%, VPD: 2.49 kPa
+Interior -> T: 27.1°C, H: 54%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.8°C, H: 44%, VPD: 2.49 kPa
+Interior -> T: 27.1°C, H: 54%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.8°C, H: 44%, VPD: 2.49 kPa
+Interior -> T: 27.5°C, H: 55%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
+
+--- Registro de sensores (Arquitectura Limpia) ---
+Balcón -> T: 30.8°C, H: 43%, VPD: 2.53 kPa
+Interior -> T: 27.5°C, H: 55%, VPD: 1.65 kPa
+
+--- Sugerencias del Sistema ---
+💡 SUGERENCIA: Mantené cerrado.
