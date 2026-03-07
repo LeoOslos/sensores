@@ -1,1 +1,6 @@
 .env
+node_modules/
+*.bak*
+devices.csv
+log_ejecucion.txt
+log_ejecucion.txt.hist
