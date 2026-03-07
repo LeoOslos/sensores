@@ -4,3 +4,5 @@ node_modules/
 devices.csv
 log_ejecucion.txt
 log_ejecucion.txt.hist
+ultimo.txt
+package-lock.json
